@@ -2,9 +2,7 @@
 
 ![](https://i.imgur.com/exXHGig.png)
 
- - - -
- ## Minimalistic Tray Apllication for passive notifcations and quick acces
- to information via Tray menu.
+ ### Minimalistic Tray Apllication for passive notifcations and quick acces to information via Tray menu.
 
  __Build with Pyside Framework.__
 
