@@ -3,8 +3,10 @@
 ![](https://i.imgur.com/exXHGig.png)
 
  - - -
- A minimalistic Tray Apllication
- using the Pyside Framework.
+ ## Minimalistic Tray Apllication for passive notifcations and quick acces
+ to information via Tray menu.
+
+ __Build with Pyside Framework.__
 
         - Displays active lessons as Notifcation
         - Shows next lesson in Tray    
